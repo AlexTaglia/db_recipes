@@ -1,0 +1,127 @@
+{
+    "recipes": [
+        {
+            "id": 0,
+            "categoria": "dolci",
+            "nome": "Tiramisu",
+            "calorie": {
+                "energia": 670,
+                "carboidrati": 38.1,
+                "proteine": 15.5,
+                "grassi": 50.6,
+                "fibre": 1.5,
+                "colesterolo": 291,
+                "sodio": 186
+            },
+            "difficoltà": "Facile",
+            "tempo_preparazione": 40,
+            "cottura": 6,
+            "dosi per": 8,
+            "costo": "medio",
+            "nota": "+ 2 ore per il riposo in frigorifero",
+            "presentazione": "Il tiramisù è uno dei capisaldi della cucina italiana, uno dei dolci al cucchiaio più amati e realizzati in tutto il mondo. Le origini del tiramisù sono molto incerte e diverse città ne rivendicano la paternità. Ciò di cui siamo certi è che dal 1980 in poi, anno in cui questo termine venne inserito nel vocabolario italiano, il tiramisù ha avuto un successo enorme! Ad oggi è tra le parole italiane più conosciute all'estero. Ma cosa rende il tiramisù così speciale? Sicuramente amiamo il fatto che sia molto semplice da preparare, la sua crema al mascarpone è irresistibile, così gustosa e vellutata, intervellata da strati di savoiardi inzuppati nel caffè! C'è chi ama aromatizzare la bagna con il marsala e chi invece preferisce utilizzare altri liquori, ma noi lo amiamo così, in purezza e vi proponiamo la versione più classica, perfetta per ogni occasione! </br> Anche se non abbiamo scoperto chi sia per certo l'inventore del tiramisù nella versione attuale, individuato da alcuni in Ado Campeol (il proprietario del conosciuto e storico locale \"Il Becchiere\" di Treviso), condividiamo con voi la nostra ricetta per uno tra i più buoni tiramisù che abbiate mai assaggiato! Preparatelo anche voi e fateci sapere!",
+            "ingredienti": [
+                "mascarpone 750 g",
+                "uova (freschissime, circa 5 medie) 260 g",
+                "savoiardi 250 g",
+                "zucchero 120",
+                "caffe (della moka, zuccherato a piacere) 300 g",
+                "cacao amaro in polvere q.b."
+            ],
+            "preparazione": "Per preparare il tiramisù preparate il caffé con la moka per ottenerne 300 g, poi zuccherate a piacere (noi abbiamo messo un cucchiaino) e lasciatelo raffreddare in una ciotolina bassa e ampia. Separate le uova dividendo gli albumi dai tuorli 1, ricordando che per montare bene gli albumi non dovranno presentare alcuna traccia di tuorlo. Montate i tuorli con le fruste elettriche, versando solo metà dose di zucchero 2. Non appena il composto sarà diventato chiaro e spumoso, e con le fruste ancora in funzione, potrete aggiungere il mascarpone, poco alla volta 3. Incorporato tutto il formaggio avrete ottenuto una crema densa e compatta 4; tenetela da parte. Pulite molto bene le fruste e passate a montare gli albumi 5. Quando saranno schiumosi versate il restante zucchero un po’ alla volta 6.Dovrete montarli a neve ben ferma 7; otterrete questo risultato quando rovesciando la ciotola la massa non si muoverà. Prendete una cucchiaiata di albumi e versatela nella ciotola con la crema di mascarpone 8 e mescolate energicamente con una spatola 8, così stempererete il composto. Dopodiché procedete ad aggiungere la restante parte di albumi, poco alla volta mescolando molto delicatamente dal basso verso l'alto 9. La crema al mascarpone è ora pronta 10. Distribuitene una generosa cucchiaiata sul fondo di una pirofila di vetro, grande 30x19,5cm e distribuite per bene su tutta la base. Inzuppate per pochi istanti i savoiardi nel caffè freddo prima da un lato e poi dall’altro 12.Man mano distribuite i savoiardi imbevuti nella pirofila, cercando di sistemarli tutti in un verso, così da ottenere un primo strato di biscotti 14. Aggiungete altra crema al mascarpone e livellatela in modo da coprirli completamente 15.E continuate a distribuire i savoiardi imbevuti nel caffè 16, poi realizzate un altro strato di crema 17 e livellate bene la superficie 18. Trasferite la crema rimasta in un sac-à-poche con beccuccio liscio di diametro 12 mm e realizzare dei ciuffetti per tutta la dimensione della teglia 19. Spolverizzatela con del cacao amaro in polvere 20 e lasciate rassodare in frigorifero per un paio d’ore 21. Il vostro tiramisù è pronto per essere gustato!",
+            "conservazione": "Potete conservare il tiramisù un paio di giorni al massimo ben coperto in frigorifero. Si può congelare per circa 2 settimane in freezer",
+            "consiglio": "Potete aggiungere a piacimento del cioccolato fondente a scaglie o delle gocce di cioccolato.",
+            "curiosità": "Le origini del Tiramisù sono molto incerte perché ogni regione vorrebbe aver \"inventato\" questa prelibatezza: per questo motivo è nata una sorta di contesa tra Toscana, Piemonte, Friuli Venezia Giulia e Veneto. Moltissime sono le leggende legate a questo dolce a cui vennero attribuite addirittura qualità afrodisiache. La versione ufficiale colloca la nascita del tiramisù nel XVII secolo a Siena quando alcuni pasticceri, in vista dell'arrivo del Granduca di Toscana Cosimo de Medici, decisero di preparare un dolce per celebrare la sua grandezza. Decisero così che il dolce doveva rispecchiare la personalità del Granduca: doveva quindi essere un dolce importante e gustoso ma allo stesso tempo preparato con ingredienti semplici e, cosa importante, doveva essere estremamente goloso poiché Cosimo amava letteralmente i dolci. Così fu realizzato il nostro Tiramisù che all'epoca era chiamato \"zuppa del duca\" proprio in onore di Cosimo de Medici che portò con se la ricetta a Firenze facendola conoscere in tutta Italia. La leggenda racconta inoltre, che la zuppa del duca divenne il dolce preferito dai nobili che gli attribuivano proprietà afrodisiache ed eccitanti: da qui il nome Tiramisù. La versione non ufficiale, invece, narra che a inventare il Tiramisù sia stato un pasticcere torinese in onore di Camillo Benso conte di Cavour per sostenerlo nella sua difficile impresa di unificare l'Italia. Anche il Veneto ha una sua versione in merito: sembra che il tiramisù sia stato inventato nel ristorante \"el Toulà\" di Treviso situato all'epoca nei pressi di una casa chiusa e servito appunto per \"tirare su\" .",
+            "img": "https://www.giallozafferano.it/images/237-23742/Tiramisu_450x300.jpg",
+            "img_preparazione": [
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_1-3.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_4-6.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_7-9.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_10-12.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_13-15.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_16-18.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/237/23742/23742_draft-tiramisu_strip_19-21.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "categoria": "dolci",
+            "nome": "Pancake allo sciroppo d'acero",
+            "calorie": {
+                "energia": 263,
+                "carboidrati": 35.1,
+                "proteine": 8.9,
+                "grassi": 9.6,
+                "fibre": 0.9,
+                "colesterolo": 117,
+                "sodio": 63
+            },
+            "difficoltà": "Molto facile",
+            "tempo_preparazione": 15,
+            "cottura": 20,
+            "dosi per": 4,
+            "costo": "Molto basso",
+            "nota": "Nessuna",
+            "presentazione": "Se state progettando un viaggio negli Stati Uniti, preparatevi a degustare il tradizionale american breakfast con i deliziosi pancake, piccoli dischi spugnosi e saporiti che non aspettano altro che essere farciti con le leccornie più invitanti: la tradizione li vuole conditi con il tipico sciroppo d’acero, un dolcificante naturale con un gusto che ricorda quello del miele, usato anche per i fluffy pancake. Ma accanto a questo tipico abbinamento sono ammesse tutte le varianti possibili, a patto che siano super golose: dalla frutta fresca o sciroppata, alle creme fino alle salse al cioccolato. Potrete anche realizzare una versione con lo yogurt, light e poco calorica, oppure una versione proteica, ideali per gli sportivi. Gli americani non si fanno mancare proprio nulla e spesso accompagnano il piatto di pancake con ciuffi di panna montata, come si fa a resistere? Di sicuro avrete già l’acquolina in bocca, se non volete aspettare la colazione potete preparare i pancake anche per merenda, ecco la nostra ricetta!",
+            "ingredienti": [
+                "burro 25 g",
+                "farina 00 125g",
+                "uova medie 2",
+                "latte intero fresco 200g",
+                "lievito (della moka, zuccherato a piacere) 300 g",
+                "cacao amaro in polvere q.b."
+            ],
+            "preparazione": "Iniziamo la preparazione dei pancake fondendo il burro a fuoco bassissimo, quindi lasciate intiepidire. Intanto dividete gli albumi dai tuorli. Versate i tuorli in una ciotola e sbatteteli con una frusta a mano 1, poi unite il burro fuso a temperatura ambiente 2 e il latte a filo, continuando sempre a mescolare con la frusta 3. Montate il composto finchè non risulterà chiaro.Unite il lievito alla farina 4 e setacciate tutto nella ciotola con il composto di uova 5, mescolate con la frusta per amalgamare 6. Ora montate gli albumi che avete tenuto da parte, versando poco alla volta lo zucchero 7 e quando saranno bianchi e spumosi incorporateli delicatamente al composto di uova, con movimenti dall'alto verso il basso, per evitare di smontarli 8. Mettete a scaldare sul fuoco medio (non alto altrimenti non darete il tempo all'impasto di lievitare bene durante la cottura e i pancake diventeranno troppo scuri) una padella ampia antiaderente (meglio se a fondo spesso) e, se necessario, ungete con poco burro da spandere sulla superficie con l'aiuto di carta da cucina. Versate al centro del pentolino un mestolino di preparato 9, non ci sarà bisogno di spanderlo.Quando inizieranno a comparire delle bollicine in superficie e la base sarà dorata, giratelo sull’altro lato per mezzo di una spatolina 10, come se fosse una crepe o una frittata, quindi fate dorare a sua volta anche l'altro lato, dopodichè il pancake sarà pronto 11. Proseguite così con il resto dell'impasto e man a mano disponete i pancake su un piatto da portata, impilateli uno sopra l'altro. Con queste dosi dovrebbero formarsi all'incirca 12 pancake. Serviteli caldi e cosparsi di sciroppo d’acero 12. Potete accompagnare i pancake con della frutta fresca o sciroppata di vostro gusto.",
+            "conservazione": "Si consiglia di consumare subito i pancake, oppure di conservarli in frigorifero per un giorno al massimo. Si sconsiglia la congelazione.L'impasto si può conservare in frigorifero coperto con pellicola per un massimo di 12 ore.",
+            "consiglio": "Per guarnire o accompagnare i pancake, oltre allo sciroppo d’acero (Maple Syrup) usato dagli americani per la maggiore, potete usare miele, Nutella, creme varie, burro d’arachidi, marmellate, panna semi-montata o acida, frutta fresca o sciroppata!",
+            "curiosità": "Per i molti lettori di Disney: i pancake non sono altro che le note frittelle di Paperino, che da bravo zio preparava con cura ai tre nipotini Qui, Quo e Qua!",
+            "img": "https://www.giallozafferano.it/images/3-320/Pancakes-allo-sciroppo-d-acero_450x300.jpg",
+            "img_preparazione": [
+                "https://ricette.giallozafferano.it/images/ricette/3/320/320_pancakes_allo_sciroppo_d_acero_strip_1-3.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/3/320/320_panccake_sciroppo_acero_definitiva_strip_4-6.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/3/320/320_pancakes_allo_sciroppo_d_acero_strip_7-9.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/3/320/320_pancakes_allo_sciroppo_d_acero_def_strip_10-12.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "primi piatti",
+            "nome": "Spaghetti alla Carbonara",
+            "calorie": {
+                "energia": 680,
+                "carboidrati": 66.9,
+                "proteine": 2.9,
+                "grassi": 37.2,
+                "fibre": 2.2,
+                "colesterolo": 383,
+                "sodio": 586
+            },
+            "difficoltà": "Facile",
+            "tempo_preparazione": 15,
+            "cottura": 10,
+            "dosi per": 4,
+            "costo": "Basso",
+            "nota": "Nessuna",
+            "presentazione": "Il Vicolo della Scrofa, per chi conosce Roma, è una delle stradine più caratteristiche e ricche di simboli. Proprio in una trattoria di questa strada, da cui il nome del vicolo, pare sia stata realizzata la prima Carbonara, nel 1944. La storia più attendibile infatti racconta l'incontro tra gli ingredienti a disposizione dei soldati americani e la fantasia di un cuoco romano. Il risultato fu il prototipo degli spaghetti alla carbonara: uova, bacon (poi guanciale) e formaggio. Man a mano la ricetta è evoluta fino a quella che tutti conosciamo oggi e possiamo apprezzare a casa di amici romani veraci (e voraci!), nelle trattorie come nei ristoranti stellati della Capitale, in tutta Italia e all'estero, nelle innumerevoli versioni: con o senza pepe, con un tuorlo per persona o l'aggiunta di almeno un uovo intero, con guanciale o pancetta tesa.Il condimento per la carbonara si prepara in una manciata di minuti. Pensate che occorrono soltanto guanciale speziato tagliato a striscioline, una crema dorata a base di tuorli (nella nostra versione) e tanto Pecorino grattugiato al momento. Nella sua semplicità e nella ricchezza delle materie prime, la ricetta degli spaghetti alla carbonara è parente stretta di altri due capisaldi della cucina genuina italiana: l'amatriciana e la gricia! Strizza l'occhio anche alla pasta alla zozzona, un piatto robusto che unisce il meglio delle preparazioni di base della cucina laziale. Fate un tuffo nella Roma popolare insieme a noi e scoprite come realizzare dei cremosissimi spaghetti alla carbonara, fateci sapere se la nostra versione vi piace e, se vi incuriosisce l'idea di gustare altre varianti, provate anche la pasta patate e uova o la carbonara agli asparagi!",
+            "ingredienti": [
+                "Spaghetti 320 g",
+                "Guanciale 150 g",
+                "Tuorli di uova medie 6",
+                "Pecorino romano 50 g",
+                "Pepe nero q.b."
+            ],
+            "preparazione": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale 1 e tagliatelo prima a fette e poi a striscioline spesse circa 1cm 2. La cotenna avanzata potrà essere riutilizzata per insaporire altre preparazioni. Versate i pezzetti in una padella antiaderente 3 e rosolate per circa 15 minuti a fiamma media, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte.Nel frattempo tuffate gli spaghetti nell’acqua bollente 4 e cuoceteli per il tempo indicato sulla confezione. Intanto versate i tuorli in una ciotola 5, aggiungete anche la maggior parte del Pecorino previsto dalla ricetta 6 la parte restante servirà per guarnire la pasta.Insaporite con il pepe nero 7, amalgamate tutto con una frusta a mano 8. Aggiungete un cucchiaio di acqua di cottura per diluire il composto e mescolate 9.Intanto il guanciale sarà giunto a cottura, spegnete il fuoco e tenetelo da parte 10. Scolate la pasta al dente direttamente nel tegame con il guanciale 11 e saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e Pecorino 12 nel tegame. Mescolate velocemente per amalgamare.Per renderla ben cremosa, al bisogno, potete aggiungere poca acqua di cottura della pasta 13. Servite subito gli spaghetti alla carbonara insaporendoli con il Pecorino avanzato 14 e il pepe nero macinato a piacere 15.",
+            "conservazione": "Si consiglia di consumare subito gli spaghetti alla carbonara. Si sconsigliano forme di conservazione.",
+            "consiglio": "Come potete arricchire gli spaghetti alla carbonara? Innanzitutto rispettando i vostri gusti, in cucina è sempre importantissimo! Altrimenti eccovi delle validissime alternative. Per esempio in alternativa agli spaghetti si possono usare anche rigatoni o mezze maniche e invece del guanciale provate con della pancetta tesa utilizzando un grasso in padella, dell'olio o del burro. Poi sostituite il Pecorino o fate a metà con del Parmigiano grattugiato. E per finire, per rendere ancora più corposa la vostra carbonara, non ci sarà bisogno di aggiungere la panna! Potete semplicemente aggiungere poca acqua di cottura della pasta oppure usare una combinazione di uova intere e tuorli: sperimentate per trovare la consistenza che più preferite! Noi abbiamo utilizzato gli spaghetti n.3 ma potete provare anche i n.5 e gli Spaghettoni!",
+            "curiosità": "Nessuna",
+            "img": "https://www.giallozafferano.it/images/219-21928/Spaghetti-alla-Carbonara_450x300_sp.jpg",
+            "img_preparazione": [
+                "https://ricette.giallozafferano.it/images/ricette/219/21928/1.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/219/21928/2.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/219/21928/3.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/219/21928/4.jpg",
+                "https://ricette.giallozafferano.it/images/ricette/219/21928/5.jpg"
+            ]
+        }
+    ]
+}
