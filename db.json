@@ -82,46 +82,6 @@
                 "https://ricette.giallozafferano.it/images/ricette/3/320/320_pancakes_allo_sciroppo_d_acero_strip_7-9.jpg",
                 "https://ricette.giallozafferano.it/images/ricette/3/320/320_pancakes_allo_sciroppo_d_acero_def_strip_10-12.jpg"
             ]
-        },
-        {
-            "id": 2,
-            "categoria": "primi piatti",
-            "nome": "Spaghetti alla Carbonara",
-            "calorie": {
-                "energia": 680,
-                "carboidrati": 66.9,
-                "proteine": 2.9,
-                "grassi": 37.2,
-                "fibre": 2.2,
-                "colesterolo": 383,
-                "sodio": 586
-            },
-            "difficoltà": "Facile",
-            "tempo_preparazione": 15,
-            "cottura": 10,
-            "dosi per": 4,
-            "costo": "Basso",
-            "nota": "Nessuna",
-            "presentazione": "Il Vicolo della Scrofa, per chi conosce Roma, è una delle stradine più caratteristiche e ricche di simboli. Proprio in una trattoria di questa strada, da cui il nome del vicolo, pare sia stata realizzata la prima Carbonara, nel 1944. La storia più attendibile infatti racconta l'incontro tra gli ingredienti a disposizione dei soldati americani e la fantasia di un cuoco romano. Il risultato fu il prototipo degli spaghetti alla carbonara: uova, bacon (poi guanciale) e formaggio. Man a mano la ricetta è evoluta fino a quella che tutti conosciamo oggi e possiamo apprezzare a casa di amici romani veraci (e voraci!), nelle trattorie come nei ristoranti stellati della Capitale, in tutta Italia e all'estero, nelle innumerevoli versioni: con o senza pepe, con un tuorlo per persona o l'aggiunta di almeno un uovo intero, con guanciale o pancetta tesa.Il condimento per la carbonara si prepara in una manciata di minuti. Pensate che occorrono soltanto guanciale speziato tagliato a striscioline, una crema dorata a base di tuorli (nella nostra versione) e tanto Pecorino grattugiato al momento. Nella sua semplicità e nella ricchezza delle materie prime, la ricetta degli spaghetti alla carbonara è parente stretta di altri due capisaldi della cucina genuina italiana: l'amatriciana e la gricia! Strizza l'occhio anche alla pasta alla zozzona, un piatto robusto che unisce il meglio delle preparazioni di base della cucina laziale. Fate un tuffo nella Roma popolare insieme a noi e scoprite come realizzare dei cremosissimi spaghetti alla carbonara, fateci sapere se la nostra versione vi piace e, se vi incuriosisce l'idea di gustare altre varianti, provate anche la pasta patate e uova o la carbonara agli asparagi!",
-            "ingredienti": [
-                "Spaghetti 320 g",
-                "Guanciale 150 g",
-                "Tuorli di uova medie 6",
-                "Pecorino romano 50 g",
-                "Pepe nero q.b."
-            ],
-            "preparazione": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale 1 e tagliatelo prima a fette e poi a striscioline spesse circa 1cm 2. La cotenna avanzata potrà essere riutilizzata per insaporire altre preparazioni. Versate i pezzetti in una padella antiaderente 3 e rosolate per circa 15 minuti a fiamma media, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte.Nel frattempo tuffate gli spaghetti nell’acqua bollente 4 e cuoceteli per il tempo indicato sulla confezione. Intanto versate i tuorli in una ciotola 5, aggiungete anche la maggior parte del Pecorino previsto dalla ricetta 6 la parte restante servirà per guarnire la pasta.Insaporite con il pepe nero 7, amalgamate tutto con una frusta a mano 8. Aggiungete un cucchiaio di acqua di cottura per diluire il composto e mescolate 9.Intanto il guanciale sarà giunto a cottura, spegnete il fuoco e tenetelo da parte 10. Scolate la pasta al dente direttamente nel tegame con il guanciale 11 e saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e Pecorino 12 nel tegame. Mescolate velocemente per amalgamare.Per renderla ben cremosa, al bisogno, potete aggiungere poca acqua di cottura della pasta 13. Servite subito gli spaghetti alla carbonara insaporendoli con il Pecorino avanzato 14 e il pepe nero macinato a piacere 15.",
-            "conservazione": "Si consiglia di consumare subito gli spaghetti alla carbonara. Si sconsigliano forme di conservazione.",
-            "consiglio": "Come potete arricchire gli spaghetti alla carbonara? Innanzitutto rispettando i vostri gusti, in cucina è sempre importantissimo! Altrimenti eccovi delle validissime alternative. Per esempio in alternativa agli spaghetti si possono usare anche rigatoni o mezze maniche e invece del guanciale provate con della pancetta tesa utilizzando un grasso in padella, dell'olio o del burro. Poi sostituite il Pecorino o fate a metà con del Parmigiano grattugiato. E per finire, per rendere ancora più corposa la vostra carbonara, non ci sarà bisogno di aggiungere la panna! Potete semplicemente aggiungere poca acqua di cottura della pasta oppure usare una combinazione di uova intere e tuorli: sperimentate per trovare la consistenza che più preferite! Noi abbiamo utilizzato gli spaghetti n.3 ma potete provare anche i n.5 e gli Spaghettoni!",
-            "curiosità": "Nessuna",
-            "img": "https://www.giallozafferano.it/images/219-21928/Spaghetti-alla-Carbonara_450x300_sp.jpg",
-            "img_preparazione": [
-                "https://ricette.giallozafferano.it/images/ricette/219/21928/1.jpg",
-                "https://ricette.giallozafferano.it/images/ricette/219/21928/2.jpg",
-                "https://ricette.giallozafferano.it/images/ricette/219/21928/3.jpg",
-                "https://ricette.giallozafferano.it/images/ricette/219/21928/4.jpg",
-                "https://ricette.giallozafferano.it/images/ricette/219/21928/5.jpg"
-            ]
         }
     ]
 }
